@@ -1,4 +1,4 @@
-INTRODUCTOIN
+INTRODUCTION
 This project is a top-down zombie shooter game that has progressive waves, multiple guns and three difficulties. It also has a LAN based multiplayer option for players to play with their friends (still fixing bugs).
 
 HOW TO LAN
